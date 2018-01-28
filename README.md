@@ -1,0 +1,1 @@
+# cdp-personal-volodymyr_kovalenko-patterns-observer
